@@ -20,7 +20,7 @@ You may also see any lint errors in the console.
 ![Input](https://github.com/anushanagula/job-seeker/blob/1eabd7bf9b86eaa5c9510a8f09ea388c184e7b89/src/Images/form_sample.JPG)
 
 ## form sample 
-![Input](/src/Images/form_sample.JPG?raw=true)
+![Input](/src/Images/form_sample.jpg)
 
 ## skills form 
 ![Input](src/Images/skills_form.JPG?raw=true)
