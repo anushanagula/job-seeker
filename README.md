@@ -14,16 +14,16 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Dashboard
-![Input](src/Images/dashboard.JPG)
+![Input](/src/Images/dashboard.JPG?raw=true)
 
 ## login
-![Input](src/Images/login.JPG)
+![Input](/src/Images/login.JPG?raw=true)
 
 ## form sample 
-![Input](src/Images/form sample.JPG)
+![Input](/src/Images/form_sample.JPG?raw=true)
 
 ## skills form 
-![Input](src/Images/skills form.JPG)
+![Input](src/Images/skills_form.JPG?raw=true)
 
 
 
